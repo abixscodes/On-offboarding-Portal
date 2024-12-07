@@ -1,0 +1,3 @@
+[submodule "employee-management-system-angular-spring-boot-mysql"]
+	path = employee-management-system-angular-spring-boot-mysql
+	url = https://github.com/abixscodes/employee-management-system-angular-spring-boot-mysql.git
